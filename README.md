@@ -2,6 +2,12 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+
+### `axios, redux, react-redux, redux-saga, redux-thunk, react-bootstrap`
+
+all the above plugin are installed. 
+
+
 ## Available Scripts
 
 In the project directory, you can run:
